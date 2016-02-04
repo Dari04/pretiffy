@@ -1,0 +1,154 @@
+
+.inicio{
+	background-color:white;
+	height: 60px;
+}
+.comienzo{
+	position: relative;
+	top: 5px;
+	left: 200px;
+	font-size: 14px;
+	text-align: center;
+
+}
+.icono{
+	color: #333333;
+	font-family: Arial;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+ul li {
+	display: inline-block;
+	position: relative;
+	margin: 20px;
+}
+.background{
+	background-image: url("../images/background.jpg");
+	height: 290px;
+	background-repeat:  none;
+	background-size: cover;
+}
+.name{
+	text-align: center;
+	position: relative;
+	top: 40px;
+	left: 200px;
+	text-align: center
+}
+.logo{
+	height: 50px;
+	width: 50px;
+}
+.text1,.text2{
+	color: white;
+}
+.text1{
+	font-size: 40px;
+}
+.text2{
+	font-size: 25px;
+}
+.tile{
+	background-image: url("../images/tile1.png");
+	height: 360px;
+	background-size: cover;
+}
+.profile{
+	height: 150px;
+	width: 150px;
+	border: 1px solid #6D6E71;
+	position: relative;
+	left: 40px;
+	padding: 2px;
+
+}
+.about{
+	position: relative;
+	top:120px;
+	right: 100px;
+}
+.me{
+	position: relative;
+	left:165px;
+	font-size: 25px;
+	color: #8F03E3;
+	bottom: 30px;
+	
+}
+.foto{
+	position: relative;
+	top: 155px;
+
+}
+.lorem{
+	position: relative;
+	color: #6D6E71
+}
+.favourite{
+	position:relative;
+	left: 140px;
+	color: #8F03E3;
+	top: 50px;
+}
+.things{
+	margin-bottom: 12px;
+	font-size: 25px;
+}
+.here{
+	font-size: 15px;
+}
+.cat{
+	width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    overflow: hidden; 
+    display:inline-block;
+    padding: 2px;
+    border: 2px solid #8F03E3;
+ }
+.dos{
+	margin-left: 70px;	
+}
+.tres{
+	margin-left: 140px;
+
+}
+.cuatro{
+	margin-left: 210px;
+	
+
+}
+.hola{
+	margin-top: 80px;
+	margin-left: 100px;
+}
+.white{
+	height: 350px;
+}
+footer{
+	background-image: url("../images/tile2.png");
+	height: 360px;
+}
+.contact{
+	color: #8F03E3;
+	margin-top: 12px;
+	font-size: 25px;
+}
+.finish{
+	position:relative;
+	left: 375px;
+	top: 50px;
+}
+.twitter{
+	position: relative;
+	top: 130px;
+
+}
+
+.circulo{
+	position: relative;
+	left: 220px;
+}
+
+
